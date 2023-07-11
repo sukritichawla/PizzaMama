@@ -1,0 +1,41 @@
+
+body {background:url('images/main_background.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-noz-background-size: cover;
+-o-background-size: cover;
+background-size:cover;
+margin:0px}
+
+img#logo {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top:200px;}
+
+a{text-decoration:none;
+color:white;
+display: block;
+margin-top:20px;
+width:100px;
+text-align:center;
+margin-left:45%;
+background-color:#DD7835;
+
+padding:6px;
+
+border-radius:10px;
+
+}
+
+
+
+a:hover {display: block;
+margin-top:20px;
+width:100px;
+text-align:center;
+margin-left:45%;
+color:white;
+background-color:black;
+}
+
+

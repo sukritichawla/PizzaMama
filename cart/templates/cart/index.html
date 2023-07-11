@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cart</title>
+</head>
+<body>
+<p>This is my cart</p>
+
+<input type="number" id="myText" value="0">
+<button type="button" onclick="myFunction()">Save</button>
+
+    <p id="demo"></p>
+
+<script>
+
+    // Here the value is stored in new variable x
+        function myFunction() {
+        var x = document.getElementById("myText").value;
+        document.getElementById("demo").innerHTML = x;
+
+
+    }
+    </script>
+
+
+</body>
+</html>

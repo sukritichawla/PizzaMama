@@ -1,0 +1,39 @@
+li {list-style-type:none;}
+body {background:url('images/menu_background.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-noz-background-size: cover;
+-o-background-size: cover;
+background-size:cover;
+margin:0px}
+
+img#logo {margin-top:25px;
+margin-left:75px;}
+
+h1{background-color:#DD7835;
+
+font-family:'Lucida Handwriting',cursive;
+font-size:20px;
+width:20%;
+margin-top:25px;
+padding:10px;
+color:white;
+margin-left:0px;
+border: solid white 1px;}
+
+td#one {color:white;
+font-size:20px;
+
+}
+td#two {color:#DD7835;
+font-size:20px;}
+li#ing {color:white}
+
+td{padding-top:20px;
+
+margin-left:75px;
+column-width:200px;
+}
+
+
+
+
